@@ -8147,11 +8147,12 @@ a.text-dark:hover, a.text-dark:focus {
 
 body {
   font-family: "Poppins", Arial, sans-serif;
-  background: #000000;
+  background: #062c4f;
   font-size: 16px;
   line-height: 1.8;
   font-weight: 400;
-  color: #999999; }
+  color: #999999;
+  }
   body.menu-show {
     overflow: hidden;
     position: fixed;
